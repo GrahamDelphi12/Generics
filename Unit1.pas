@@ -49,7 +49,7 @@ end;
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  showmessage('');
+  showmessage('PC Build');
 end;
 
 procedure TForm1.BtnStrClick(Sender: TObject);
