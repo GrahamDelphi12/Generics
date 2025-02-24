@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025/02/21 11:26:19.015,=C:\Delphi 12\Unit1.pas</Transaction>
-    <Transaction>2025/02/21 11:26:31.055,=C:\Delphi 12\Unit2.pas</Transaction>
-    <Transaction>2025/02/21 11:27:41.607,C:\Delphi 12\Generics\UnAnonClass.pas=C:\Delphi 12\Unit2.pas</Transaction>
-    <Transaction>2025/02/21 11:27:48.675,C:\Delphi 12\Generics\Unit1.fmx=C:\Delphi 12\Unit1.fmx</Transaction>
-    <Transaction>2025/02/21 11:27:48.675,C:\Delphi 12\Generics\Unit1.pas=C:\Delphi 12\Unit1.pas</Transaction>
-    <Transaction>2025/02/21 11:28:08.830,C:\Delphi 12\Generics\GenTest.dproj=C:\Delphi 12\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2025/02/21 11:26:19.000.015,=C:\Delphi 12\Unit1.pas</Transaction>
+    <Transaction>2025/02/21 11:26:31.000.055,=C:\Delphi 12\Unit2.pas</Transaction>
+    <Transaction>2025/02/21 11:27:41.000.607,C:\Delphi 12\Unit2.pas=C:\Delphi 12\Generics\UnAnonClass.pas</Transaction>
+    <Transaction>2025/02/21 11:27:48.000.675,C:\Delphi 12\Unit1.fmx=C:\Delphi 12\Generics\Unit1.fmx</Transaction>
+    <Transaction>2025/02/21 11:27:48.000.675,C:\Delphi 12\Unit1.pas=C:\Delphi 12\Generics\Unit1.pas</Transaction>
+    <Transaction>2025/02/21 11:28:08.000.830,C:\Delphi 12\Project1.dproj=C:\Delphi 12\Generics\GenTest.dproj</Transaction>
   </Transactions>
-  <ActiveMobileDevice>   <NoProfile Android="HGAL549M"/>
-  </ActiveMobileDevice>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
 </BorlandProject>

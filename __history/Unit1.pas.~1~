@@ -12,10 +12,8 @@ type
     BtnVariant: TButton;
     Memo1: TMemo;
     BtnStr: TButton;
-    Button1: TButton;
     procedure BtnVariantClick(Sender: TObject);
     procedure BtnStrClick(Sender: TObject);
-    procedure Button1Click(Sender: TObject);
   private
     procedure ProcessDetail(const value: variant);
     procedure ProcessStrDetail(const value: string);
@@ -45,11 +43,6 @@ begin
       GetArr.ParseArray<variant>(IntArr,ProcessDetail);
 
   GetArr.free;
-end;
-
-procedure TForm1.Button1Click(Sender: TObject);
-begin
-  showmessage('');
 end;
 
 procedure TForm1.BtnStrClick(Sender: TObject);
